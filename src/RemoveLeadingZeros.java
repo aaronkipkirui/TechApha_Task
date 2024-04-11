@@ -1,5 +1,5 @@
 
-public class RemoveLeadingZero {
+public class RemoveLeadingZeros {
     public static void main(String[] args) {
 //        initializing input and output variables
         String input = "0000012789";
